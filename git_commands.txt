@@ -1,0 +1,17 @@
+git status
+git init
+touch demo.txt
+git status
+git add demo.txt
+start demo.txt
+git add demo.txt
+git add .  ==>(to add all the files)
+
+git commit -m 'first commit'  ==>(to commit file)
+
+now open demo 1 amd make some changes and then check 
+git status(it will show - 'modified demo1.txt'
+
+git add .
+
+

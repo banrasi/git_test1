@@ -1,0 +1,6 @@
+git status
+git commit -m 'second commit'
+git log
+git remote add origin(paste ssh copied here)
+git remote -V(shows the address of the fetch and push)
+git push origin master
